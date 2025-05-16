@@ -53,3 +53,10 @@ footer {
   background: #eee;
   margin-top: 2rem;
 }
+
+.icon {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
