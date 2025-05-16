@@ -2,7 +2,7 @@ body {
   font-family: 'Segoe UI', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: white;
+  background-color: #fff0f5;
   color: #333;
   line-height: 1.6;
 }
@@ -53,7 +53,7 @@ ul li::before {
 footer {
   text-align: center;
   padding: 1rem;
-  background: #fff0f5;
+  background: #ffe6eb;
   margin-top: 2rem;
   color: #555;
 }
